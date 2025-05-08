@@ -77,7 +77,7 @@ export const ActivityGraph = () => {
                       margin={{
                         top: 0,
                         right: 0,
-                        left: -24,
+                        left: -14,
                         bottom: 0,
                       }}
                     >
